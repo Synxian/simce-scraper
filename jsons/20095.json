@@ -1,0 +1,2419 @@
+{
+  "nombre_colegio": "COLEGIO CAMILO HENRIQUEZ DE PEDREGOSO",
+  "rbd": "20095",
+  "dependencia": "Particular Subvencionado",
+  "comuna": "Villarrica",
+  "GSE": "Medio",
+  "indicadores": {
+    "indicador-1": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "80",
+        "71",
+        "74",
+        "71",
+        "70"
+      ],
+      "dif": [
+        {
+          "dif": "-9",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "3",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-3",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-1-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "74"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "70"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-10": {
+      "coordsX": [
+        [
+          "Números",
+          "y Operaciones"
+        ],
+        [
+          "Patrones y Álgebra"
+        ],
+        [
+          "Geometría",
+          "Medición"
+        ],
+        [
+          "Datos y Probabilidades"
+        ]
+      ],
+      "dataPoints": [
+        [
+          5
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          5
+        ],
+        [
+          5
+        ]
+      ],
+      "dif": null,
+      "format": 1,
+      "mDif": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sigDif": null
+    },
+    "indicador-11": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "67",
+        "73",
+        "71",
+        "75",
+        "76"
+      ],
+      "dif": [
+        {
+          "dif": "6",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "4",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "1",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-11-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "74"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "76"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-12": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "70",
+        "70",
+        "70",
+        "69",
+        "80"
+      ],
+      "dif": [
+        {
+          "dif": "0",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "0",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "11",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-12-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "75"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "80"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-13": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "75",
+        "74",
+        "72",
+        "71",
+        "84"
+      ],
+      "dif": [
+        {
+          "dif": "-1",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "13",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-13-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "77"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "84"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-14": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "62",
+        "70",
+        "68",
+        "69",
+        "71"
+      ],
+      "dif": [
+        {
+          "dif": "8",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "2",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-14-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "71"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "71"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-15": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "224",
+        "219",
+        "236",
+        "216",
+        "256"
+      ],
+      "dif": [
+        {
+          "dif": "-5",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "17",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-20",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "40",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-15-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "240"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "256"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-16": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#87b4e2",
+          "data": [
+            "75.0",
+            "83.3",
+            "66.7",
+            "87.5",
+            "36.8"
+          ],
+          "label": "Nivel insuficiente"
+        },
+        {
+          "backgroundColor": "#3dacea",
+          "data": [
+            "12.5",
+            "8.3",
+            "27.8",
+            "12.5",
+            "42.1"
+          ],
+          "label": "Nivel elemental"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "data": [
+            "12.5",
+            "8.3",
+            "5.6",
+            "0.0",
+            "21.1"
+          ],
+          "label": "Nivel adecuado"
+        }
+      ],
+      "dif": null,
+      "format": 2,
+      "mDif": [
+        {
+          "value": "",
+          "year": "2016"
+        },
+        {
+          "value": "",
+          "year": "2017"
+        },
+        {
+          "value": "",
+          "year": "2018"
+        },
+        {
+          "value": "",
+          "year": "2022"
+        },
+        {
+          "value": "",
+          "year": "2023"
+        },
+        {
+          "value": "",
+          "year": "2016"
+        },
+        {
+          "value": "",
+          "year": "2017"
+        },
+        {
+          "value": "",
+          "year": "2018"
+        },
+        {
+          "value": "",
+          "year": "2022"
+        },
+        {
+          "value": "",
+          "year": "2023"
+        },
+        {
+          "value": "",
+          "year": "2016"
+        },
+        {
+          "value": "",
+          "year": "2017"
+        },
+        {
+          "value": "",
+          "year": "2018"
+        },
+        {
+          "value": "",
+          "year": "2022"
+        },
+        {
+          "value": "",
+          "year": "2023"
+        }
+      ],
+      "sigDif": null
+    },
+    "indicador-17": {
+      "coordsX": [
+        "Localizar",
+        "Interpetrar y relacionar",
+        "Reflexionar"
+      ],
+      "dataPoints": [
+        [
+          5
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ]
+      ],
+      "dif": null,
+      "format": 1,
+      "mDif": [
+        "",
+        "",
+        ""
+      ],
+      "sigDif": null
+    },
+    "indicador-18": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "212",
+        "229",
+        "213",
+        "254",
+        "235"
+      ],
+      "dif": [
+        {
+          "dif": "17",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-16",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "41",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-19",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-18-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "244"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "235"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-19": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#87b4e2",
+          "data": [
+            "82.4",
+            "64.3",
+            "87.5",
+            "52.9",
+            "80.0"
+          ],
+          "label": "Nivel insuficiente"
+        },
+        {
+          "backgroundColor": "#3dacea",
+          "data": [
+            "17.6",
+            "35.7",
+            "12.5",
+            "29.4",
+            "13.3"
+          ],
+          "label": "Nivel elemental"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "data": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "17.6",
+            "6.7"
+          ],
+          "label": "Nivel adecuado"
+        }
+      ],
+      "dif": null,
+      "format": 2,
+      "mDif": [
+        {
+          "value": "",
+          "year": "2016"
+        },
+        {
+          "value": "",
+          "year": "2017"
+        },
+        {
+          "value": "",
+          "year": "2018"
+        },
+        {
+          "value": "",
+          "year": "2022"
+        },
+        {
+          "value": "",
+          "year": "2023"
+        },
+        {
+          "value": "",
+          "year": "2016"
+        },
+        {
+          "value": "",
+          "year": "2017"
+        },
+        {
+          "value": "",
+          "year": "2018"
+        },
+        {
+          "value": "",
+          "year": "2022"
+        },
+        {
+          "value": "",
+          "year": "2023"
+        },
+        {
+          "value": "",
+          "year": "2016"
+        },
+        {
+          "value": "",
+          "year": "2017"
+        },
+        {
+          "value": "",
+          "year": "2018"
+        },
+        {
+          "value": "",
+          "year": "2022"
+        },
+        {
+          "value": "",
+          "year": "2023"
+        }
+      ],
+      "sigDif": null
+    },
+    "indicador-2": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "73",
+        "72",
+        "62",
+        "60",
+        "70"
+      ],
+      "dif": [
+        {
+          "dif": "-1",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-10",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "10",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-2-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "75"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "70"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-20": {
+      "coordsX": [
+        [
+          "Números"
+        ],
+        [
+          "Álgebra y",
+          "funciones"
+        ],
+        [
+          "Geometría"
+        ],
+        [
+          "Probabilidad y",
+          "estadística"
+        ]
+      ],
+      "dataPoints": [
+        [
+          4
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          4
+        ]
+      ],
+      "dif": null,
+      "format": 1,
+      "mDif": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sigDif": null
+    },
+    "indicador-3": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "71",
+        "77",
+        "67",
+        "69",
+        "70"
+      ],
+      "dif": [
+        {
+          "dif": "6",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-10",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "2",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "1",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-3-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "78"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "70"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-4": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "64",
+        "67",
+        "61",
+        "60",
+        "57"
+      ],
+      "dif": [
+        {
+          "dif": "3",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-6",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-3",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "indicador-4-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "71"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "57"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-5-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "270"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "247"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    },
+    "indicador-7": {
+      "coordsX": [
+        "Localizar",
+        "Interpretar y relacionar",
+        "Reflexionar"
+      ],
+      "dataPoints": [
+        [
+          4
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "dif": null,
+      "format": 1,
+      "mDif": [
+        "",
+        "",
+        ""
+      ],
+      "sigDif": null
+    },
+    "indicador-8-2": {
+      "coordsX": [
+        "2022"
+      ],
+      "dataPoints": [
+        {
+          "backgroundColor": "#5c5c5c",
+          "borderColor": "#5c5c5c",
+          "data": [
+            "256"
+          ],
+          "label": "Puntaje promedio nacional del mismo GSE"
+        },
+        {
+          "backgroundColor": "#043aa2",
+          "borderColor": "#043aa2",
+          "data": [
+            "267"
+          ],
+          "label": "Puntaje promedio del establecimiento"
+        }
+      ],
+      "dif": null,
+      "format": 4,
+      "mDif": "",
+      "sigDif": null
+    }
+  },
+  "dimensiones": {
+    "dimension-21": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "79",
+        "70",
+        "77",
+        "69",
+        "67"
+      ],
+      "dif": [
+        {
+          "dif": "-9",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "7",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-8",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-22": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "81",
+        "73",
+        "71",
+        "72",
+        "72"
+      ],
+      "dif": [
+        {
+          "dif": "-8",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "0",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-23": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "69",
+        "64",
+        "57",
+        "57",
+        "66"
+      ],
+      "dif": [
+        {
+          "dif": "-5",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-7",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "0",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "9",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-24": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "78",
+        "78",
+        "74",
+        "68",
+        "78"
+      ],
+      "dif": [
+        {
+          "dif": "0",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-4",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-6",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "10",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-25": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "71",
+        "74",
+        "55",
+        "56",
+        "66"
+      ],
+      "dif": [
+        {
+          "dif": "3",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-19",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "10",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-26": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "68",
+        "75",
+        "70",
+        "68",
+        "68"
+      ],
+      "dif": [
+        {
+          "dif": "7",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-5",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "0",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-27": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "81",
+        "82",
+        "71",
+        "70",
+        "77"
+      ],
+      "dif": [
+        {
+          "dif": "1",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-11",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "7",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-28": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "72",
+        "72",
+        "61",
+        "67",
+        "66"
+      ],
+      "dif": [
+        {
+          "dif": "0",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-11",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "6",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-29": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "61",
+        "65",
+        "52",
+        "57",
+        "59"
+      ],
+      "dif": [
+        {
+          "dif": "4",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-13",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "5",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "2",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-30": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "67",
+        "77",
+        "71",
+        "62",
+        "61"
+      ],
+      "dif": [
+        {
+          "dif": "10",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-6",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-9",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-31": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "65",
+        "60",
+        "60",
+        "59",
+        "51"
+      ],
+      "dif": [
+        {
+          "dif": "-5",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "0",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-8",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-38": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "67",
+        "71",
+        "71",
+        "76",
+        "75"
+      ],
+      "dif": [
+        {
+          "dif": "4",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "0",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "5",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-39": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "68",
+        "75",
+        "71",
+        "75",
+        "78"
+      ],
+      "dif": [
+        {
+          "dif": "7",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-4",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "4",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "3",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-40": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "67",
+        "63",
+        "63",
+        "68",
+        "74"
+      ],
+      "dif": [
+        {
+          "dif": "-4",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "0",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "5",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "6",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-41": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "72",
+        "78",
+        "78",
+        "72",
+        "87"
+      ],
+      "dif": [
+        {
+          "dif": "6",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "0",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-6",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "15",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-42": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "70",
+        "68",
+        "70",
+        "67",
+        "80"
+      ],
+      "dif": [
+        {
+          "dif": "-2",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "2",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-3",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "13",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-43": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "72",
+        "66",
+        "67",
+        "64",
+        "82"
+      ],
+      "dif": [
+        {
+          "dif": "-6",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "1",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-3",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "18",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-44": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "78",
+        "82",
+        "76",
+        "81",
+        "85"
+      ],
+      "dif": [
+        {
+          "dif": "4",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-6",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "5",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "4",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-45": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "71",
+        "74",
+        "73",
+        "68",
+        "85"
+      ],
+      "dif": [
+        {
+          "dif": "3",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-1",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-5",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "17",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "0",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-46": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "66",
+        "62",
+        "58",
+        "74",
+        "72"
+      ],
+      "dif": [
+        {
+          "dif": "-4",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-4",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "16",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-47": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "59",
+        "71",
+        "76",
+        "66",
+        "75"
+      ],
+      "dif": [
+        {
+          "dif": "12",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "5",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-10",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "9",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "1",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    },
+    "dimension-48": {
+      "coordsX": [
+        "2016",
+        "2017",
+        "2018",
+        "2022",
+        "2023"
+      ],
+      "dataPoints": [
+        "62",
+        "77",
+        "71",
+        "69",
+        "67"
+      ],
+      "dif": [
+        {
+          "dif": "15",
+          "difKey": "2017_2016"
+        },
+        {
+          "dif": "-6",
+          "difKey": "2018_2017"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2022_2018"
+        },
+        {
+          "dif": "-2",
+          "difKey": "2023_2022"
+        }
+      ],
+      "format": 1,
+      "mDif": null,
+      "sigDif": [
+        {
+          "sigDif": "1",
+          "sigDifKey": "2017_2016"
+        },
+        {
+          "sigDif": "-1",
+          "sigDifKey": "2018_2017"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2022_2018"
+        },
+        {
+          "sigDif": "0",
+          "sigDifKey": "2023_2022"
+        }
+      ]
+    }
+  }
+}
