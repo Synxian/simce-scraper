@@ -18,11 +18,13 @@ opt.add_argument('--disable-dev-shm-usage')
 matriculas = pd.read_csv('matriculas.csv', sep=';', index_col='RBD')[['MAT_TOTAL', 'COD_DEPE2']]
 matriculas.index = matriculas.index.astype(str)
 
-ive_file_basica = pd.read_excel('IVE-2023.xlsx', sheet_name='BASICA', header=3, index_col='ID_RBD')[['DS_REGION_ESTABLE', 'IVE-SINAE BÁSICA 2023', 'DS_RURALIDAD']]
+IVE_FILE_PATH = 'IVE.xlsx'
+
+ive_file_basica = pd.read_excel(IVE_FILE_PATH, sheet_name='BASICA', header=4, index_col='ID_RBD')[['DS_REGION_ESTABLE', 'IVE-SINAE BÁSICA 2023', 'DS_RURALIDAD']]
 ive_file_basica = ive_file_basica[ive_file_basica.index.notnull()]
 ive_file_basica.index = ive_file_basica.index.astype(int).astype(str)
 
-ive_file_media = pd.read_excel('IVE-2023.xlsx', sheet_name='MEDIA', header=3, index_col='ID_RBD')[['DS_REGION_ESTABLE', 'IVE-SINAE MEDIA 2023', 'DS_RURALIDAD']]
+ive_file_media = pd.read_excel(IVE_FILE_PATH, sheet_name='MEDIA', header=4, index_col='ID_RBD')[['DS_REGION_ESTABLE', 'IVE-SINAE MEDIA 2023', 'DS_RURALIDAD']]
 ive_file_media = ive_file_media[ive_file_media.index.notnull()]
 ive_file_media.index = ive_file_media.index.astype(int).astype(str)
 
@@ -183,7 +185,7 @@ def add_dimensions(school_data, dimensions, level):
                 f.write(f'error dimensiones {level} {e}')
             return 'Error'
     return data
-        
+
 
 def add_indicators(school_data, indicators, level):
     data = {}
@@ -221,7 +223,7 @@ def add_indicators(school_data, indicators, level):
                 f.write(f'error indicadores {level} {e}')
             return 'Error'
     return data
-    
+
 def cuarto_basico(school_data):
     if school_data['indicadores']['indicador-1-2']['dataPoints'][0]['data'] == [""]:
         return {}

@@ -112,6 +112,16 @@ def scrap(rbd):
     'GSE': gse
   }
 
+def get_gse(rbd, level):
+    s = requests.Session()
+    res = s.get(authUrl(rbd))
+    log_url = BeautifulSoup(res.content, features="lxml").find('form')['action']
+    s.post(log_url, data=request_credentials)
+    page = BeautifulSoup(s.get(f'https://www.simce.cl/{rbd}/indicador').content, 'html.parser').find('section', id=level)
+    div = [x for x in page.find_all('h5', {"class": 'level-title mb-3'}) if 'GSE' in x.get_text()][0]
+    match = re.search(r'GSE:\s*(\w+(?:\s+\w+)?)', div.get_text().split('\n')[0])
+    return match.group(1)
+
 def process_schools(schools):
   errors = []
   no_data = []
