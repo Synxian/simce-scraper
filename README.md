@@ -17,3 +17,7 @@ Ojo que los links cambian año a año.
 También recomiendo revisar los excel, del año 2023 al 2024 el archivo del ive pasó de comenzar en la fila 4 a la 5.
 
 De todas maneras, al correr get_data se descargan todos los archivos necesarios.
+
+## Contacto
+
+Cualquier duda sobre el código hablar a <felix@pulsoescolar.com> o <felix.melo@ug.uchile.cl>
