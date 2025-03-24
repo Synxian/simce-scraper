@@ -21,3 +21,4 @@ De todas maneras, al correr get_data se descargan todos los archivos necesarios.
 ## Contacto
 
 Cualquier duda sobre el código hablar a <felix@pulsoescolar.com> o <felix.melo@ug.uchile.cl>
+Código disponible en <https://github.com/Synxian/simce-scraper>
